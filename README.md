@@ -1,5 +1,6 @@
 
-👋 Hi! I'm Chana
+👋 **Hi! I'm Chana**
+
 
 I'm a Full Stack Developer with experience in React, Python, and MySQL.
 Specializing in responsive web development and building user-friendly management interfaces.
@@ -44,5 +45,5 @@ Development environments I work with:
 
 
 
-📫 You can contact me by email: hanikahana@example.com
+📫 You can contact me by email: chana71077@gmail.com
 
