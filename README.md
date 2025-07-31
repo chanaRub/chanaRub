@@ -2,9 +2,9 @@
 👋 **Hi! I'm Chana**
 
 
-I'm a Full Stack Developer with experience in React, Python, and MySQL.
-Specializing in responsive web development and building user-friendly management interfaces.
-Always learning, improving, and enjoying clean and readable code.
+Hello! I am a Full Stack Developer with a strong passion for exploring and mastering a wide range of technologies.  
+I enjoy tackling complex problems and delivering clean, maintainable code that drives effective solutions.  
+I’m always learning and adapting to keep up with new technologies.
 
 Languages I work with:
 
