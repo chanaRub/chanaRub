@@ -2,7 +2,7 @@
 👋 **Hi! I'm Chana**
 
 
-Hello! I am a Full Stack Developer with a strong passion for exploring and mastering a wide range of technologies.  
+I am a Full Stack Developer with a strong passion for exploring and mastering a wide range of technologies.  
 I enjoy tackling complex problems and delivering clean, maintainable code that drives effective solutions.  
 I’m always learning and adapting to keep up with new technologies.
 
