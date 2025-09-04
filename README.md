@@ -43,9 +43,11 @@ Development environments I work with:
 </p>
 
 ## Work Experience
-## RSPCT:
+** RSPCT:**
 Backend Development
+<br>
 Frontend Development
+<br><br>
 
 📫 You can contact me by email: chana71077@gmail.com
 
