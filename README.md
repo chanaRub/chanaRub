@@ -1,5 +1,5 @@
-
-👋 ## Hi! I'm Chana
+ 
+## Hi! I'm Chana👋
 
 I am a Full Stack Developer with a strong passion for exploring and mastering a wide range of technologies.  
 I enjoy tackling complex problems and delivering clean, maintainable code that drives effective solutions.  
