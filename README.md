@@ -43,7 +43,7 @@ Development environments I work with:
 </p>
 
 ## Work Experience
-# RSPCT:
+## RSPCT:
 Backend Development
 Frontend Development
 
